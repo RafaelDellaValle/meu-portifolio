@@ -111,29 +111,6 @@ body {
   margin-left: 30px;  
 }
 
-.H2SiteAgendamento{
-  position: absolute;
-  top: 183px;
-  left: 40px;
-  color: #03616f;
-  font-size: 20px;
-}
-
-.H2Portifolio{
-  position: absolute;
-  top: 183px;
-  left: 40px;
-  color: #03616f;
-  font-size: 20px;
-}
-
-.H2EmAndamento{
-  position: absolute;
-  top: 183px;
-  left: 40px;
-  color: #03616f;
-  font-size: 20px;
-}
 
 
 .H2Projetos{
@@ -141,6 +118,30 @@ body {
   top: 365px;
   left: 580px;
   color: #03616f;
+}
+
+.H2SiteAgendamento{
+  position: absolute;
+  top: 30px;
+  left: 40px;
+  color: #03616f;
+  font-size: 20px;
+}
+
+.H2Portifolio{
+  position: absolute;
+  top: 208px;
+  left: 40px;
+  color: #03616f;
+  font-size: 20px;
+}
+
+.H2EmAndamento{
+  position: absolute;
+  top: 390px;
+  left: 40px;
+  color: #03616f;
+  font-size: 20px;
 }
 
 .ListaProjetos{
@@ -176,6 +177,7 @@ body {
   color: #03616f;
   font-size: 9px;
   padding-left: 40px;
+  padding-right: 10px;
 }
 
 .EmBranco{

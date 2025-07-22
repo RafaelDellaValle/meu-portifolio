@@ -48,8 +48,8 @@ function App() {
             <h2 className="H2Portifolio">Portifolio em Html e CSS</h2>
             <h2 className="H2EmAndamento">Em Andamento</h2>
             <div className="SiteIA">Desenvolvi um site para agendamento de serviços<br/> de suporte técnico em T.I. O projeto foi criado utilizando a ferramenta Gamma, com o apoio da inteligência artificial para <br/> gerar estrutura, design e conteúdo de forma otimizada. É uma solução prática, acessível e funcional, pensada <br/>para divulgar meu trabalho e facilitar o atendimento.</div>
-            <div className="PortifolioSite">Linha 2</div>
-            <div className="EmBranco">Linha 3</div>
+            <div className="PortifolioSite">Portfólio pessoal desenvolvido com React para apresentar meus projetos, habilidades e experiências na área de tecnologia. A aplicação é responsiva, organizada por componentes e demonstra meu conhecimento em HTML, CSS, JavaScript, React e versionamento com Git/GitHub.</div>
+            <div className="EmBranco">Em Andamento</div>
         </div>
       </section>
 
