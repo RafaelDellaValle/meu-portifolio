@@ -1,4 +1,5 @@
 import './portifolio.css'
+import RafaelImg from '../assets/Rafael.png'
 
 function Portifolio() {
   return (
@@ -7,7 +8,7 @@ function Portifolio() {
         <div>
             <h1 className="NomeTitulo">Rafael Della<br/> Valle De Sousa</h1>
             <p className="SubTitulo">Técnico em Informática <br/> Desenvolvedor em formação</p>
-            <img src="../src/assets/Rafael.png" className="RafaelImg"/>
+            <img src={RafaelImg} alt="Foto Rafael" className="RafaelImg"/>
             <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
         </div>
         
